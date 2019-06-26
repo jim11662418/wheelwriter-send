@@ -1,5 +1,5 @@
 # IBM Wheelwriter "Send"
-Uses a Dallas Semiconductor DS89C440 MCU (an Intel 8052-compatible microcontroller) to send a hex number to the Wheelwriter's serial BUS. Useful for sussing out the Wheelwriter's behavior to commands.
+Uses a Dallas Semiconductor [DS89C440](https://www.maximintegrated.com/en/products/microcontrollers/DS89C440.html) MCU (an Intel 8052-compatible microcontroller) to send a hex number to the Wheelwriter's serial BUS. Useful for sussing out the Wheelwriter's behavior to commands.
 
 This project only works on earlier Wheelwriter models, the ones that internally have two circuit boards: the Function Board and the Printer Board (Wheelwriter models 3, 5 and 6).
 
